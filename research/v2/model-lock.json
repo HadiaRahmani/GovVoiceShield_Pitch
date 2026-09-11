@@ -1,0 +1,8 @@
+{
+  "created_utc": "2026-09-10T11:52:28Z",
+  "model_sha256": "4e22d8b9e4105708bfdf566f86e9d36b68bfbee7c94a35e1185fd1065286b16c",
+  "manifest_sha256": "9dc14477be2fe4a7bc5850d81ec8957a8e19010ac7b13e97af76d55949ab9d81",
+  "training_code_sha256": "5499aa7bb5ac9d9c757fdee375df8fe001fb1101f7f90f843fc7abc3f8a9cb6e",
+  "protocol_sha256": "f1af639be9239484a9388d38aa6f7c651c6e6405b12c1dc4fd4adef18acd3b7e",
+  "test_access": "Not accessed for features or predictions before this lock"
+}

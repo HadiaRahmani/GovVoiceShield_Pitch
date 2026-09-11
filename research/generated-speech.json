@@ -1,0 +1,12 @@
+[
+  {
+    "id": "team-01",
+    "voice": "en-US-GuyNeural",
+    "text": "This is a fictional demonstration announcement. The community service centre will open at nine tomorrow morning. Please confirm opening times using the official directory before travelling."
+  },
+  {
+    "id": "team-02",
+    "voice": "en-US-JennyNeural",
+    "text": "This is a fictional demonstration announcement. Scheduled maintenance will affect the public information portal tonight. For urgent assistance, use the contact details already published on the official website."
+  }
+]

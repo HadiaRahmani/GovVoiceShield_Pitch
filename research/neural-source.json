@@ -1,0 +1,6 @@
+{
+  "repository": "SpeechAntiSpoofingBenchmarks/AASIST",
+  "revision": "16774d458d86d2a021ae31646c1bf66a5331b53e",
+  "sha256": "130e536266b7c537f9a13029e1612a9f392fd1cc827783683b6d1c062a3db5e1",
+  "onnxruntime_web": "1.29.0"
+}

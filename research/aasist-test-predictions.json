@@ -1,0 +1,3264 @@
+[
+  {
+    "id": "LA_E_8877452",
+    "label": 1,
+    "probability": 0.9999781984469417,
+    "raw_score": 2.817251443862915,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5932896",
+    "label": 1,
+    "probability": 0.9999981192827186,
+    "raw_score": 3.2751102447509766,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5849185",
+    "label": 0,
+    "probability": 0.00038778894248965877,
+    "raw_score": -0.6560336351394653,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4581379",
+    "label": 0,
+    "probability": 7.642157855409565e-14,
+    "raw_score": -4.831832408905029,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8814547",
+    "label": 1,
+    "probability": 0.9999975863054634,
+    "raw_score": 3.2284889221191406,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9157999",
+    "label": 1,
+    "probability": 0.9999858265612832,
+    "raw_score": 2.897714614868164,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1611480",
+    "label": 1,
+    "probability": 0.9999999995277615,
+    "raw_score": 4.82407546043396,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6841754",
+    "label": 1,
+    "probability": 0.9999999999314171,
+    "raw_score": 5.184600353240967,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1781840",
+    "label": 1,
+    "probability": 0.9962027688399197,
+    "raw_score": 1.8523662090301514,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8872199",
+    "label": 1,
+    "probability": 0.9999999999999989,
+    "raw_score": 7.243776321411133,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1837629",
+    "label": 1,
+    "probability": 0.35502303566643145,
+    "raw_score": 0.7000879049301147,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6314733",
+    "label": 0,
+    "probability": 1.167345964641873e-14,
+    "raw_score": -5.18292236328125,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8469141",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 11.96284294128418,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3379393",
+    "label": 0,
+    "probability": 1.6541742815638313e-13,
+    "raw_score": -4.687541961669922,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7783830",
+    "label": 1,
+    "probability": 0.9999999999792062,
+    "raw_score": 5.407590389251709,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9472752",
+    "label": 1,
+    "probability": 0.9999999949751599,
+    "raw_score": 4.382226943969727,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1425990",
+    "label": 1,
+    "probability": 0.9999999610907759,
+    "raw_score": 3.9997658729553223,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9088738",
+    "label": 1,
+    "probability": 0.999997490834703,
+    "raw_score": 3.221240520477295,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7535126",
+    "label": 1,
+    "probability": 0.9999998728365689,
+    "raw_score": 3.77848482131958,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2394352",
+    "label": 1,
+    "probability": 0.9999999660153693,
+    "raw_score": 4.025051593780518,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8787897",
+    "label": 1,
+    "probability": 0.9999999999966167,
+    "raw_score": 5.746883392333984,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3125426",
+    "label": 1,
+    "probability": 0.9999999999491267,
+    "raw_score": 5.240414619445801,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6320499",
+    "label": 1,
+    "probability": 0.9999999719572888,
+    "raw_score": 4.0609612464904785,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8617121",
+    "label": 1,
+    "probability": 9.843653327474135e-07,
+    "raw_score": -1.7727900743484497,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2608310",
+    "label": 1,
+    "probability": 0.9999999999819138,
+    "raw_score": 5.433657169342041,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7203940",
+    "label": 1,
+    "probability": 0.9999981535041874,
+    "raw_score": 3.2785415649414062,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8868279",
+    "label": 1,
+    "probability": 0.6550265127849686,
+    "raw_score": 0.9314587712287903,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8844552",
+    "label": 1,
+    "probability": 0.9822462236093749,
+    "raw_score": 1.5615391731262207,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2634822",
+    "label": 1,
+    "probability": 0.9999999999755911,
+    "raw_score": 5.377638339996338,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3757378",
+    "label": 0,
+    "probability": 6.435039266060833e-18,
+    "raw_score": -6.584951400756836,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4920751",
+    "label": 1,
+    "probability": 0.9999999999999594,
+    "raw_score": 6.573383331298828,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9817776",
+    "label": 1,
+    "probability": 0.9608576787039711,
+    "raw_score": 1.4096970558166504,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4557471",
+    "label": 1,
+    "probability": 0.9659731300921143,
+    "raw_score": 1.436858892440796,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1070406",
+    "label": 1,
+    "probability": 0.9999999987935362,
+    "raw_score": 4.648812413215637,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3003752",
+    "label": 0,
+    "probability": 3.484579645790635e-16,
+    "raw_score": -5.8390727043151855,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5323454",
+    "label": 0,
+    "probability": 1.152815811968764e-05,
+    "raw_score": -1.3130228519439697,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2947508",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.772371292114258,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6613183",
+    "label": 1,
+    "probability": 0.999964091544906,
+    "raw_score": 2.724009931087494,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1967506",
+    "label": 1,
+    "probability": 0.9999999999984541,
+    "raw_score": 5.893239498138428,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8572945",
+    "label": 1,
+    "probability": 0.018686052280067145,
+    "raw_score": 0.07149346172809601,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8171325",
+    "label": 1,
+    "probability": 0.9999999999999984,
+    "raw_score": 7.191135406494141,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7889402",
+    "label": 1,
+    "probability": 0.9999999994815427,
+    "raw_score": 4.806628227233887,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4868592",
+    "label": 1,
+    "probability": 0.999999999999988,
+    "raw_score": 6.802319526672363,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3061511",
+    "label": 1,
+    "probability": 0.9999999999992062,
+    "raw_score": 6.0177717208862305,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9765088",
+    "label": 1,
+    "probability": 0.9999999997870552,
+    "raw_score": 4.972896099090576,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5254282",
+    "label": 0,
+    "probability": 1.3456841221485712e-14,
+    "raw_score": -5.156357288360596,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1392317",
+    "label": 1,
+    "probability": 0.9999999999961029,
+    "raw_score": 5.720461845397949,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4667928",
+    "label": 1,
+    "probability": 0.9999974632206998,
+    "raw_score": 3.2191953659057617,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5916535",
+    "label": 1,
+    "probability": 0.506205582488393,
+    "raw_score": 0.8162844777107239,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2342087",
+    "label": 1,
+    "probability": 0.9999999626076027,
+    "raw_score": 4.007195949554443,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6198337",
+    "label": 1,
+    "probability": 0.9999998716297029,
+    "raw_score": 3.776719808578491,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6226411",
+    "label": 0,
+    "probability": 3.3304759997888507e-15,
+    "raw_score": -5.417275905609131,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4440655",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.439470291137695,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6536844",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 7.712374210357666,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2729530",
+    "label": 1,
+    "probability": 0.9999999950732599,
+    "raw_score": 4.385910987854004,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2839593",
+    "label": 1,
+    "probability": 0.9999999999999898,
+    "raw_score": 6.832638263702393,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1008240",
+    "label": 1,
+    "probability": 0.9999938400014987,
+    "raw_score": 3.0534207820892334,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8826157",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.904586791992188,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3819347",
+    "label": 1,
+    "probability": 0.9999999999697757,
+    "raw_score": 5.337708473205566,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5561613",
+    "label": 1,
+    "probability": 0.999912485604784,
+    "raw_score": 2.5575444996356964,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9005141",
+    "label": 1,
+    "probability": 0.9999999999957445,
+    "raw_score": 5.704024791717529,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2326699",
+    "label": 1,
+    "probability": 0.9917686210459998,
+    "raw_score": 1.706966718037923,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3241361",
+    "label": 1,
+    "probability": 0.9999999232505604,
+    "raw_score": 3.872832775115967,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2217240",
+    "label": 1,
+    "probability": 0.999999999999992,
+    "raw_score": 6.875144004821777,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5035954",
+    "label": 1,
+    "probability": 0.9697118378692959,
+    "raw_score": 1.4593293722718954,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8309979",
+    "label": 0,
+    "probability": 1.0911375840731737e-16,
+    "raw_score": -6.056034564971924,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2512207",
+    "label": 1,
+    "probability": 0.9999982620592336,
+    "raw_score": 3.289862871170044,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1852876",
+    "label": 1,
+    "probability": 0.9999999418588621,
+    "raw_score": 3.9247171878814697,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8997675",
+    "label": 0,
+    "probability": 3.9296569175991926e-10,
+    "raw_score": -3.2351200580596924,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2230880",
+    "label": 1,
+    "probability": 0.9996558511479494,
+    "raw_score": 2.3016419410705566,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8022678",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.816723823547363,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3134881",
+    "label": 1,
+    "probability": 0.9999999985482726,
+    "raw_score": 4.614233016967773,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3376441",
+    "label": 1,
+    "probability": 0.9999991050901293,
+    "raw_score": 3.4138846397399902,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7458476",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.145230293273926,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1279759",
+    "label": 1,
+    "probability": 0.9183477850988838,
+    "raw_score": 1.2638542652130127,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3295965",
+    "label": 1,
+    "probability": 0.9999999406234141,
+    "raw_score": 3.920788288116455,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6891817",
+    "label": 1,
+    "probability": 0.9999999999994034,
+    "raw_score": 6.071159362792969,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9249133",
+    "label": 1,
+    "probability": 0.999920953160554,
+    "raw_score": 2.576560914516449,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2422921",
+    "label": 1,
+    "probability": 1.9032880253037717e-05,
+    "raw_score": -1.21933713555336,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2771527",
+    "label": 1,
+    "probability": 0.999999999999976,
+    "raw_score": 6.6721415519714355,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5012260",
+    "label": 1,
+    "probability": 0.9999999999675306,
+    "raw_score": 5.324320316314697,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6067961",
+    "label": 0,
+    "probability": 4.2889293249768975e-12,
+    "raw_score": -4.079270362854004,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2044128",
+    "label": 1,
+    "probability": 0.999999999999998,
+    "raw_score": 7.146479606628418,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3767787",
+    "label": 1,
+    "probability": 0.9999999783815814,
+    "raw_score": 4.109577655792236,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3416428",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 7.7468366622924805,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3808560",
+    "label": 1,
+    "probability": 0.9999999999999996,
+    "raw_score": 7.433950901031494,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2301320",
+    "label": 1,
+    "probability": 0.7455299632473898,
+    "raw_score": 1.012498378753662,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4449440",
+    "label": 1,
+    "probability": 0.9883373330557589,
+    "raw_score": 1.6412116289138794,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5780087",
+    "label": 0,
+    "probability": 3.530706375216335e-15,
+    "raw_score": -5.40636682510376,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9476637",
+    "label": 1,
+    "probability": 0.9998071280911701,
+    "raw_score": 2.409868001937866,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9031999",
+    "label": 1,
+    "probability": 0.9999999552349728,
+    "raw_score": 3.973569631576538,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4030409",
+    "label": 1,
+    "probability": 0.9999999914682144,
+    "raw_score": 4.2833051681518555,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1753551",
+    "label": 0,
+    "probability": 1.8484916305498494e-16,
+    "raw_score": -5.957534313201904,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4299978",
+    "label": 1,
+    "probability": 0.9999999700668505,
+    "raw_score": 4.048771262168884,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3185302",
+    "label": 1,
+    "probability": 0.8050768558508701,
+    "raw_score": 1.07666802033782,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5407548",
+    "label": 1,
+    "probability": 0.999999999992099,
+    "raw_score": 5.58840537071228,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1083304",
+    "label": 1,
+    "probability": 0.9999999900485327,
+    "raw_score": 4.254544258117676,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9538027",
+    "label": 1,
+    "probability": 0.9941837092389362,
+    "raw_score": 1.7723140716552734,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4407516",
+    "label": 1,
+    "probability": 0.999998008798555,
+    "raw_score": 3.2644436359405518,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2005255",
+    "label": 1,
+    "probability": 0.9983892641733677,
+    "raw_score": 2.013018846511841,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4864065",
+    "label": 1,
+    "probability": 0.9999999999957376,
+    "raw_score": 5.703720569610596,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9473460",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.20695686340332,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7935847",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.997906684875488,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2804302",
+    "label": 0,
+    "probability": 4.942175985337606e-13,
+    "raw_score": -4.483028888702393,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7699932",
+    "label": 1,
+    "probability": 0.7637168221692033,
+    "raw_score": 1.0308575630187988,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1651006",
+    "label": 1,
+    "probability": 0.9999999999999782,
+    "raw_score": 6.689534664154053,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4190140",
+    "label": 1,
+    "probability": 0.9999999999997777,
+    "raw_score": 6.255708694458008,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7955880",
+    "label": 0,
+    "probability": 9.79192195788179e-14,
+    "raw_score": -4.785515308380127,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1587458",
+    "label": 1,
+    "probability": 0.9999999999615181,
+    "raw_score": 5.292574882507324,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1239200",
+    "label": 1,
+    "probability": 0.9999999776396425,
+    "raw_score": 4.103272438049316,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8058877",
+    "label": 0,
+    "probability": 3.5673217926851725e-08,
+    "raw_score": -2.3926985263824463,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8143576",
+    "label": 1,
+    "probability": 0.586602066719203,
+    "raw_score": 0.8770332336425781,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9533145",
+    "label": 1,
+    "probability": 0.9999999685921849,
+    "raw_score": 4.039785385131836,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3225381",
+    "label": 1,
+    "probability": 0.9999995562084225,
+    "raw_score": 3.544938564300537,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3824259",
+    "label": 1,
+    "probability": 0.9999858606095138,
+    "raw_score": 2.8981640338897705,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8989601",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.48901653289795,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7311063",
+    "label": 1,
+    "probability": 0.9999998913350379,
+    "raw_score": 3.8078590631484985,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3037787",
+    "label": 1,
+    "probability": 0.9668695860983679,
+    "raw_score": 1.4420210123062134,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8680038",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.670496940612793,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1651564",
+    "label": 1,
+    "probability": 0.9999999821497464,
+    "raw_score": 4.145365536212921,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1483700",
+    "label": 1,
+    "probability": 0.9999999999994835,
+    "raw_score": 6.098082542419434,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3655101",
+    "label": 1,
+    "probability": 0.9999633951292021,
+    "raw_score": 2.7204205989837646,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5375787",
+    "label": 1,
+    "probability": 0.8048598143326803,
+    "raw_score": 1.0764096975326538,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2558600",
+    "label": 1,
+    "probability": 0.894871563309839,
+    "raw_score": 1.2117947340011597,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4961402",
+    "label": 1,
+    "probability": 0.9999999862917459,
+    "raw_score": 4.194698810577393,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1634419",
+    "label": 1,
+    "probability": 0.9971821098222136,
+    "raw_score": 1.9082854986190796,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9958575",
+    "label": 1,
+    "probability": 0.9999999998941347,
+    "raw_score": 5.103482246398926,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7990424",
+    "label": 1,
+    "probability": 0.9999999986131209,
+    "raw_score": 4.622771918773651,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4812539",
+    "label": 1,
+    "probability": 0.9999999999296367,
+    "raw_score": 5.179811477661133,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8842207",
+    "label": 1,
+    "probability": 0.99999985592741,
+    "raw_score": 3.7551571130752563,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4837462",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.437626838684082,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2303242",
+    "label": 1,
+    "probability": 0.5712545074288472,
+    "raw_score": 0.8652679920196533,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6743136",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.171767234802246,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6435471",
+    "label": 1,
+    "probability": 0.9999963043509762,
+    "raw_score": 3.1488890647888184,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9679489",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.393258094787598,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2571305",
+    "label": 1,
+    "probability": 0.9999999999612781,
+    "raw_score": 5.291413426399231,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1566829",
+    "label": 1,
+    "probability": 0.9999999740149623,
+    "raw_score": 4.075201034545898,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3355060",
+    "label": 0,
+    "probability": 6.87227063360878e-12,
+    "raw_score": -3.9911763668060303,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8398583",
+    "label": 1,
+    "probability": 0.9999999999999951,
+    "raw_score": 6.971428394317627,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4367946",
+    "label": 0,
+    "probability": 2.0383278362375198e-14,
+    "raw_score": -5.078770160675049,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3597358",
+    "label": 1,
+    "probability": 0.9999999999996463,
+    "raw_score": 6.168785095214844,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9421336",
+    "label": 1,
+    "probability": 0.9999995838968312,
+    "raw_score": 3.556976079940796,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1706845",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 7.857931613922119,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4149038",
+    "label": 0,
+    "probability": 1.8315398089902667e-17,
+    "raw_score": -6.389504432678223,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9882928",
+    "label": 1,
+    "probability": 0.007872538639599611,
+    "raw_score": -0.09207083284854889,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8073719",
+    "label": 1,
+    "probability": 2.058814506354376e-07,
+    "raw_score": -2.0651609897613525,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8141759",
+    "label": 1,
+    "probability": 0.9999999999859648,
+    "raw_score": 5.481039524078369,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3307756",
+    "label": 1,
+    "probability": 0.9999999999927016,
+    "raw_score": 5.603227615356445,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2494996",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.811420440673828,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2173737",
+    "label": 1,
+    "probability": 0.01885811471864042,
+    "raw_score": 0.07323892414569855,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4222505",
+    "label": 1,
+    "probability": 0.999999999925903,
+    "raw_score": 5.1701507568359375,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8710836",
+    "label": 1,
+    "probability": 0.9999980322671898,
+    "raw_score": 3.2666590213775635,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6512887",
+    "label": 0,
+    "probability": 5.6696133241981523e-08,
+    "raw_score": -2.3061276972293854,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8501975",
+    "label": 1,
+    "probability": 0.9999999999311633,
+    "raw_score": 5.183909893035889,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1070670",
+    "label": 1,
+    "probability": 0.9999999995989428,
+    "raw_score": 4.8546037673950195,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5415632",
+    "label": 1,
+    "probability": 0.9465756640413318,
+    "raw_score": 1.3487754464149475,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1284209",
+    "label": 0,
+    "probability": 1.1819189907234739e-10,
+    "raw_score": -3.459609568119049,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7470423",
+    "label": 1,
+    "probability": 0.9999999999827303,
+    "raw_score": 5.442289352416992,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4606158",
+    "label": 1,
+    "probability": 0.9999981923024523,
+    "raw_score": 3.2825095653533936,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4508038",
+    "label": 1,
+    "probability": 0.010832740822396067,
+    "raw_score": -0.03186988830566406,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2305519",
+    "label": 1,
+    "probability": 0.9995950292729668,
+    "raw_score": 2.2712217569351196,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4706424",
+    "label": 1,
+    "probability": 2.6504278831994622e-05,
+    "raw_score": -1.1574610471725464,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5171874",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.668067932128906,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6687410",
+    "label": 1,
+    "probability": 0.9999999248170816,
+    "raw_score": 3.8766860961914062,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8005047",
+    "label": 1,
+    "probability": 0.7419816287034428,
+    "raw_score": 1.0090194195508957,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8618220",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.799504280090332,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2797780",
+    "label": 1,
+    "probability": 0.9476239385429909,
+    "raw_score": 1.352685108780861,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1204914",
+    "label": 0,
+    "probability": 2.7688302675367602e-16,
+    "raw_score": -5.882034778594971,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7081893",
+    "label": 1,
+    "probability": 0.9999999999826321,
+    "raw_score": 5.4412312507629395,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8690520",
+    "label": 1,
+    "probability": 0.9999999777563704,
+    "raw_score": 4.104250431060791,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8785008",
+    "label": 1,
+    "probability": 0.9999999213316457,
+    "raw_score": 3.868218421936035,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5557519",
+    "label": 1,
+    "probability": 0.9999987810509529,
+    "raw_score": 3.356142520904541,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9595068",
+    "label": 1,
+    "probability": 0.9999996476196629,
+    "raw_score": 3.588035464286804,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1580621",
+    "label": 1,
+    "probability": 0.9999999989360977,
+    "raw_score": 4.672309398651123,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9718069",
+    "label": 1,
+    "probability": 0.9999999979804766,
+    "raw_score": 4.552550911903381,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4000101",
+    "label": 1,
+    "probability": 0.010624671117532179,
+    "raw_score": -0.0355331115424633,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3767919",
+    "label": 1,
+    "probability": 0.9999999990631634,
+    "raw_score": 4.696075439453125,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7478444",
+    "label": 1,
+    "probability": 0.9999999999933147,
+    "raw_score": 5.619623780250549,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4918900",
+    "label": 1,
+    "probability": 0.999413112144606,
+    "raw_score": 2.2018611431121826,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9440420",
+    "label": 0,
+    "probability": 5.638657696711816e-11,
+    "raw_score": -3.597896635532379,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6275859",
+    "label": 1,
+    "probability": 0.8947330795689227,
+    "raw_score": 1.2115198373794556,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5722352",
+    "label": 1,
+    "probability": 0.9999999999999027,
+    "raw_score": 6.410067558288574,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5653207",
+    "label": 1,
+    "probability": 0.9999999999999991,
+    "raw_score": 7.304919242858887,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8450112",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.174365043640137,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7868526",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.930314064025879,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4556721",
+    "label": 1,
+    "probability": 0.9999999999999287,
+    "raw_score": 6.467996597290039,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8493549",
+    "label": 1,
+    "probability": 0.9999999999999998,
+    "raw_score": 7.64134407043457,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7456394",
+    "label": 1,
+    "probability": 0.9999990394873588,
+    "raw_score": 3.400665760040283,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4391985",
+    "label": 1,
+    "probability": 0.9999999999987002,
+    "raw_score": 5.925637722015381,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7324344",
+    "label": 1,
+    "probability": 0.8607913153614172,
+    "raw_score": 1.1520723700523376,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7432852",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.133077621459961,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7640263",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.02730941772461,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5427423",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.13239860534668,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2672682",
+    "label": 1,
+    "probability": 0.02580025823659028,
+    "raw_score": 0.13313365913927555,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9389818",
+    "label": 1,
+    "probability": 0.004438942686078629,
+    "raw_score": -0.19977742433547974,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9818839",
+    "label": 1,
+    "probability": 0.9999999999999827,
+    "raw_score": 6.732609748840332,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5171788",
+    "label": 1,
+    "probability": 0.9999995322660814,
+    "raw_score": 3.535120368003845,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5446551",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.183693885803223,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7465855",
+    "label": 1,
+    "probability": 0.999991181806421,
+    "raw_score": 2.9863879680633545,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7376536",
+    "label": 1,
+    "probability": 0.9999999999963034,
+    "raw_score": 5.730334281921387,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8618865",
+    "label": 1,
+    "probability": 0.9190746504020687,
+    "raw_score": 1.2656729221343994,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3487358",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.570393562316895,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3443952",
+    "label": 1,
+    "probability": 0.9999999999999598,
+    "raw_score": 6.575095176696777,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3442277",
+    "label": 1,
+    "probability": 7.581428086142326e-05,
+    "raw_score": -0.9610712826251984,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6856730",
+    "label": 0,
+    "probability": 7.597484901442135e-11,
+    "raw_score": -3.542181968688965,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1632144",
+    "label": 1,
+    "probability": 0.9999999999973737,
+    "raw_score": 5.794210195541382,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1256928",
+    "label": 1,
+    "probability": 0.9999999980078091,
+    "raw_score": 4.5550971031188965,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7009807",
+    "label": 1,
+    "probability": 3.3601675471161073e-10,
+    "raw_score": -3.264374256134033,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3699466",
+    "label": 0,
+    "probability": 2.6066764351277188e-11,
+    "raw_score": -3.74206805229187,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4750906",
+    "label": 1,
+    "probability": 0.9999999999064777,
+    "raw_score": 5.126646041870117,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4000561",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.391876220703125,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8329616",
+    "label": 1,
+    "probability": 0.999999967373788,
+    "raw_score": 4.0326738357543945,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9130299",
+    "label": 1,
+    "probability": 0.9994823600614501,
+    "raw_score": 2.225334405899048,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1683458",
+    "label": 1,
+    "probability": 0.16948578787928617,
+    "raw_score": 0.5146825313568115,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1572433",
+    "label": 1,
+    "probability": 0.9999999115397633,
+    "raw_score": 3.846298098564148,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2196234",
+    "label": 1,
+    "probability": 0.999999997638126,
+    "raw_score": 4.523290634155273,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1087067",
+    "label": 1,
+    "probability": 0.9999998157004557,
+    "raw_score": 3.7091450691223145,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8006298",
+    "label": 1,
+    "probability": 0.9999855541842855,
+    "raw_score": 2.8941577672958374,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8550757",
+    "label": 0,
+    "probability": 1.1411011124509478e-12,
+    "raw_score": -4.326673984527588,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5131274",
+    "label": 1,
+    "probability": 0.998473998177509,
+    "raw_score": 2.02313232421875,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2936426",
+    "label": 1,
+    "probability": 0.0001186319754883747,
+    "raw_score": -0.8774011135101318,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6688776",
+    "label": 1,
+    "probability": 0.9999999999823863,
+    "raw_score": 5.43860387802124,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2507274",
+    "label": 1,
+    "probability": 0.9999996871346029,
+    "raw_score": 3.6102595925331116,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2205883",
+    "label": 0,
+    "probability": 6.50874503660662e-14,
+    "raw_score": -4.861828804016113,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5502567",
+    "label": 1,
+    "probability": 0.9999999999991593,
+    "raw_score": 6.007085800170898,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6464211",
+    "label": 1,
+    "probability": 0.9999997601103501,
+    "raw_score": 3.6598870754241943,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4701624",
+    "label": 1,
+    "probability": 0.26828463383933343,
+    "raw_score": 0.6241667866706848,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2648590",
+    "label": 0,
+    "probability": 7.221735281341092e-10,
+    "raw_score": -3.1214109659194946,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8163420",
+    "label": 0,
+    "probability": 1.1566760941499442e-15,
+    "raw_score": -5.61488676071167,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6181945",
+    "label": 1,
+    "probability": 0.9995639306274318,
+    "raw_score": 2.2573912143707275,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6478495",
+    "label": 1,
+    "probability": 0.9967505953086493,
+    "raw_score": 1.8815809488296509,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3398090",
+    "label": 1,
+    "probability": 0.9999983992729177,
+    "raw_score": 3.3052303791046143,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1618684",
+    "label": 0,
+    "probability": 4.342118489489976e-13,
+    "raw_score": -4.507215976715088,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7710915",
+    "label": 1,
+    "probability": 0.9999861297133638,
+    "raw_score": 2.90175461769104,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4409776",
+    "label": 1,
+    "probability": 0.9999952995036661,
+    "raw_score": 3.1039481163024902,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1607246",
+    "label": 1,
+    "probability": 0.9993571868695528,
+    "raw_score": 2.184843122959137,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1807380",
+    "label": 1,
+    "probability": 0.9999982736337504,
+    "raw_score": 3.291111469268799,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8848527",
+    "label": 1,
+    "probability": 0.9999999987114021,
+    "raw_score": 4.636505961418152,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7227737",
+    "label": 1,
+    "probability": 0.9999957463843658,
+    "raw_score": 3.1226147413253784,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8252897",
+    "label": 1,
+    "probability": 0.9999886990272651,
+    "raw_score": 2.9400341510772705,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5797965",
+    "label": 1,
+    "probability": 0.997761844156159,
+    "raw_score": 1.9514334797859192,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9008126",
+    "label": 1,
+    "probability": 0.9999529096017771,
+    "raw_score": 2.6733522415161133,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5490861",
+    "label": 0,
+    "probability": 6.169417391966353e-15,
+    "raw_score": -5.302082061767578,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5721566",
+    "label": 1,
+    "probability": 0.9999999997702169,
+    "raw_score": 4.958675861358643,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4386096",
+    "label": 1,
+    "probability": 0.9999936734157909,
+    "raw_score": 3.0484347343444824,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5442367",
+    "label": 1,
+    "probability": 0.9999999986041115,
+    "raw_score": 4.6215620040893555,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2102569",
+    "label": 1,
+    "probability": 0.9999999599506417,
+    "raw_score": 3.9943692684173584,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9201027",
+    "label": 1,
+    "probability": 0.999420853059631,
+    "raw_score": 2.204343557357788,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6982929",
+    "label": 1,
+    "probability": 0.9999999999428282,
+    "raw_score": 5.218604564666748,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5540344",
+    "label": 1,
+    "probability": 0.9498701135459466,
+    "raw_score": 1.361317753791809,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8765344",
+    "label": 1,
+    "probability": 1.649739454624406e-08,
+    "raw_score": -2.5368003845214844,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4206503",
+    "label": 1,
+    "probability": 0.9999999998405786,
+    "raw_score": 5.026987075805664,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5150985",
+    "label": 0,
+    "probability": 1.1732491887707372e-09,
+    "raw_score": -3.0307366251945496,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1258917",
+    "label": 1,
+    "probability": 0.9967660682350223,
+    "raw_score": 1.882475733757019,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7626861",
+    "label": 1,
+    "probability": 0.9999132267266766,
+    "raw_score": 2.559133768081665,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9287856",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.220094919204712,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9678372",
+    "label": 1,
+    "probability": 0.9999999957448231,
+    "raw_score": 4.41329288482666,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1713871",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.718090057373047,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5865874",
+    "label": 1,
+    "probability": 0.9999999997386897,
+    "raw_score": 4.9346513748168945,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5245205",
+    "label": 0,
+    "probability": 7.76955451132903e-16,
+    "raw_score": -5.689240455627441,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4479254",
+    "label": 1,
+    "probability": 0.004195083444380595,
+    "raw_score": -0.21038103103637695,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7668589",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.808600425720215,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9463431",
+    "label": 1,
+    "probability": 0.9999702377380114,
+    "raw_score": 2.7590895891189575,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5667204",
+    "label": 1,
+    "probability": 0.9999999983489753,
+    "raw_score": 4.590195655822754,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2850912",
+    "label": 1,
+    "probability": 0.9999998054550993,
+    "raw_score": 3.699036121368408,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3708430",
+    "label": 1,
+    "probability": 0.9999999999999907,
+    "raw_score": 6.84622049331665,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5504194",
+    "label": 0,
+    "probability": 1.3446961697799613e-13,
+    "raw_score": -4.726245880126953,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7797694",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 7.837520122528076,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2323174",
+    "label": 1,
+    "probability": 0.9999960936677453,
+    "raw_score": 3.1385293006896973,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3154227",
+    "label": 1,
+    "probability": 0.9999999999999718,
+    "raw_score": 6.64096474647522,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3662712",
+    "label": 1,
+    "probability": 0.9999999999995823,
+    "raw_score": 6.1377482414245605,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1559214",
+    "label": 1,
+    "probability": 0.9999999999997562,
+    "raw_score": 6.238436222076416,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5208384",
+    "label": 1,
+    "probability": 0.9906242364528196,
+    "raw_score": 1.6824272871017456,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5040334",
+    "label": 1,
+    "probability": 0.18231145257114906,
+    "raw_score": 0.5312212109565735,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4122651",
+    "label": 1,
+    "probability": 0.994779306412498,
+    "raw_score": 1.7926123440265656,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7109134",
+    "label": 1,
+    "probability": 0.9999999999990374,
+    "raw_score": 5.981760501861572,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2872516",
+    "label": 1,
+    "probability": 0.9999445942417443,
+    "raw_score": 2.6429654359817505,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8201115",
+    "label": 1,
+    "probability": 0.9999999518013055,
+    "raw_score": 3.9597601890563965,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9090971",
+    "label": 1,
+    "probability": 0.9999999999999973,
+    "raw_score": 7.079964637756348,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8138578",
+    "label": 1,
+    "probability": 0.04404538459516712,
+    "raw_score": 0.23660290241241455,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1310175",
+    "label": 1,
+    "probability": 0.9999998494289934,
+    "raw_score": 3.7469135522842407,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4074369",
+    "label": 1,
+    "probability": 0.999999999999263,
+    "raw_score": 6.031635284423828,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6997616",
+    "label": 1,
+    "probability": 0.8099585326267321,
+    "raw_score": 1.0825368165969849,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8004101",
+    "label": 0,
+    "probability": 4.504768300144211e-16,
+    "raw_score": -5.791090488433838,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9874450",
+    "label": 1,
+    "probability": 0.9999507863142063,
+    "raw_score": 2.6651110649108887,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7715706",
+    "label": 1,
+    "probability": 0.9978311572050841,
+    "raw_score": 1.9573246240615845,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6073629",
+    "label": 1,
+    "probability": 0.6491039141788343,
+    "raw_score": 0.9265808463096619,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7267367",
+    "label": 1,
+    "probability": 0.9972661436108514,
+    "raw_score": 1.9139583110809326,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5667895",
+    "label": 1,
+    "probability": 0.9999999999694864,
+    "raw_score": 5.335928916931152,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1689261",
+    "label": 1,
+    "probability": 0.9999999999999993,
+    "raw_score": 7.324680328369141,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8689293",
+    "label": 1,
+    "probability": 0.9957836070225232,
+    "raw_score": 1.8327224254608154,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7498387",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 11.58066177368164,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3436072",
+    "label": 0,
+    "probability": 2.723837272437104e-16,
+    "raw_score": -5.885096073150635,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3512848",
+    "label": 1,
+    "probability": 0.8291727234498291,
+    "raw_score": 1.1068344116210938,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1748735",
+    "label": 1,
+    "probability": 0.8761029335395971,
+    "raw_score": 1.1771397590637207,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4166452",
+    "label": 1,
+    "probability": 0.033906312092464884,
+    "raw_score": 0.18574672937393188,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3632106",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 7.808913707733154,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3703507",
+    "label": 1,
+    "probability": 0.9542122389617049,
+    "raw_score": 1.3790991008281708,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7518627",
+    "label": 1,
+    "probability": 0.9999999999999376,
+    "raw_score": 6.493159294128418,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2736440",
+    "label": 1,
+    "probability": 0.9999999999999711,
+    "raw_score": 6.636733531951904,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6392215",
+    "label": 1,
+    "probability": 0.9998674695853348,
+    "raw_score": 2.479989767074585,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1250079",
+    "label": 1,
+    "probability": 0.9999999999999762,
+    "raw_score": 6.674047470092773,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3339971",
+    "label": 1,
+    "probability": 0.9999999925172748,
+    "raw_score": 4.307820796966553,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9425879",
+    "label": 1,
+    "probability": 0.999998974128716,
+    "raw_score": 3.3883650302886963,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9099883",
+    "label": 1,
+    "probability": 0.9999985186891978,
+    "raw_score": 3.3197173476219177,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7421669",
+    "label": 1,
+    "probability": 0.9999999999999987,
+    "raw_score": 7.2054548263549805,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8425720",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.587535858154297,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9590343",
+    "label": 1,
+    "probability": 0.999999971780115,
+    "raw_score": 4.059784412384033,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2131751",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.310256958007812,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5692511",
+    "label": 1,
+    "probability": 7.366105004744347e-09,
+    "raw_score": -2.6874637603759766,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2541706",
+    "label": 1,
+    "probability": 0.9999998875963843,
+    "raw_score": 3.8015383879343667,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7426121",
+    "label": 1,
+    "probability": 0.9999999966106499,
+    "raw_score": 4.455801963806152,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2917608",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 7.954741477966309,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2607963",
+    "label": 0,
+    "probability": 1.5147279301557968e-17,
+    "raw_score": -6.424992084503174,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9086711",
+    "label": 1,
+    "probability": 0.9999998119678821,
+    "raw_score": 3.7053985595703125,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8313387",
+    "label": 1,
+    "probability": 0.9999997244712844,
+    "raw_score": 3.634005308151245,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5340522",
+    "label": 1,
+    "probability": 0.027227939938444475,
+    "raw_score": 0.14347152411937714,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8661993",
+    "label": 0,
+    "probability": 5.4201039626919804e-14,
+    "raw_score": -4.896029114723206,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3869775",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.731029510498047,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4138689",
+    "label": 1,
+    "probability": 0.9999999988118462,
+    "raw_score": 4.651669979095459,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6481857",
+    "label": 1,
+    "probability": 0.940290416870266,
+    "raw_score": 1.326747477054596,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2205244",
+    "label": 0,
+    "probability": 1.964600305300807e-12,
+    "raw_score": -4.225156784057617,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9028079",
+    "label": 1,
+    "probability": 0.9999999926215652,
+    "raw_score": 4.31044340133667,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7146199",
+    "label": 0,
+    "probability": 6.037436349553977e-15,
+    "raw_score": -5.306122779846191,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6640139",
+    "label": 0,
+    "probability": 3.918004281745163e-16,
+    "raw_score": -5.817166805267334,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2769452",
+    "label": 1,
+    "probability": 0.999999999999839,
+    "raw_score": 6.3160223960876465,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2322291",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.486024856567383,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5321630",
+    "label": 1,
+    "probability": 0.35956257557960963,
+    "raw_score": 0.70378178358078,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5665262",
+    "label": 1,
+    "probability": 0.999999728464992,
+    "raw_score": 3.6367335319519043,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9750035",
+    "label": 1,
+    "probability": 0.9999977832951937,
+    "raw_score": 3.2443971633911133,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1989386",
+    "label": 1,
+    "probability": 0.999999757750813,
+    "raw_score": 3.6580581665039062,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1077605",
+    "label": 1,
+    "probability": 0.4857257952376659,
+    "raw_score": 0.8009743690490723,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1548167",
+    "label": 1,
+    "probability": 0.9980901950938601,
+    "raw_score": 1.9811396598815918,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4104506",
+    "label": 1,
+    "probability": 0.9983013224897986,
+    "raw_score": 2.0030694007873535,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2547740",
+    "label": 1,
+    "probability": 0.9999999999991263,
+    "raw_score": 5.999861240386963,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8936733",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.549758911132812,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8870553",
+    "label": 1,
+    "probability": 0.015004287427126221,
+    "raw_score": 0.029790083567301433,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3339989",
+    "label": 1,
+    "probability": 0.9999999427522441,
+    "raw_score": 3.9276106357574463,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5390836",
+    "label": 1,
+    "probability": 0.9999999923871487,
+    "raw_score": 4.304599285125732,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7016303",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.127175331115723,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7380702",
+    "label": 1,
+    "probability": 0.8787557551319702,
+    "raw_score": 1.1817489862442017,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8817643",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.193638801574707,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7186580",
+    "label": 1,
+    "probability": 0.9999999970645126,
+    "raw_score": 4.482665061950684,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9291442",
+    "label": 1,
+    "probability": 0.0009604538328220397,
+    "raw_score": -0.48645976185798645,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9987482",
+    "label": 1,
+    "probability": 0.9999999966271471,
+    "raw_score": 4.456713676452637,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1582036",
+    "label": 1,
+    "probability": 0.9999999999999931,
+    "raw_score": 6.906099319458008,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1682350",
+    "label": 1,
+    "probability": 0.9999999999999276,
+    "raw_score": 6.465389251708984,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4816428",
+    "label": 1,
+    "probability": 0.9999388532458852,
+    "raw_score": 2.624541759490967,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1251268",
+    "label": 1,
+    "probability": 0.9999999632697214,
+    "raw_score": 4.010534286499023,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9783305",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.2939453125,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8336587",
+    "label": 1,
+    "probability": 0.9999719000084288,
+    "raw_score": 2.7698287963867188,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6405850",
+    "label": 1,
+    "probability": 0.9999998354498707,
+    "raw_score": 3.7303245067596436,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7069760",
+    "label": 0,
+    "probability": 9.789543296292821e-15,
+    "raw_score": -5.215809345245361,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3753200",
+    "label": 1,
+    "probability": 0.999999999998413,
+    "raw_score": 5.888328552246094,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1635576",
+    "label": 0,
+    "probability": 9.01188755944929e-11,
+    "raw_score": -3.5102807879447937,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8994447",
+    "label": 1,
+    "probability": 0.9999999999999971,
+    "raw_score": 7.074449062347412,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3530988",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 11.395566940307617,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5588875",
+    "label": 1,
+    "probability": 0.9999967477191549,
+    "raw_score": 3.1727690994739532,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4985913",
+    "label": 1,
+    "probability": 0.9999999636301242,
+    "raw_score": 4.01237678527832,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4953501",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.566913604736328,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6654270",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.48985481262207,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9760268",
+    "label": 1,
+    "probability": 0.9999999999536289,
+    "raw_score": 5.257728576660156,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3834218",
+    "label": 1,
+    "probability": 0.7616862388065446,
+    "raw_score": 1.0287611484527588,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1821542",
+    "label": 1,
+    "probability": 0.9999999037332504,
+    "raw_score": 3.830495834350586,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2001516",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 11.184577941894531,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8462586",
+    "label": 1,
+    "probability": 0.9999970638461863,
+    "raw_score": 3.191876173019409,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1639638",
+    "label": 1,
+    "probability": 0.9999999999928006,
+    "raw_score": 5.605782747268677,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4034146",
+    "label": 0,
+    "probability": 4.245243919870428e-08,
+    "raw_score": -2.3601887822151184,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7027556",
+    "label": 1,
+    "probability": 0.7789669243307634,
+    "raw_score": 1.0470186471939087,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1516957",
+    "label": 1,
+    "probability": 0.07722022273826051,
+    "raw_score": 0.3481103777885437,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7319858",
+    "label": 1,
+    "probability": 0.9999999697202204,
+    "raw_score": 4.046619892120361,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3454704",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.283692359924316,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3879437",
+    "label": 1,
+    "probability": 0.999999999993165,
+    "raw_score": 5.615483403205872,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2583162",
+    "label": 1,
+    "probability": 0.9997258017128544,
+    "raw_score": 2.3441126346588135,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7503758",
+    "label": 0,
+    "probability": 4.436531729506593e-09,
+    "raw_score": -2.7822020649909973,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2410911",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.691146850585938,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3896435",
+    "label": 1,
+    "probability": 0.9999999999958786,
+    "raw_score": 5.710008422533671,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6712620",
+    "label": 1,
+    "probability": 0.999999996610079,
+    "raw_score": 4.455770492553711,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9328922",
+    "label": 1,
+    "probability": 0.9999918697251818,
+    "raw_score": 3.001564860343933,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2213613",
+    "label": 1,
+    "probability": 0.999999996319402,
+    "raw_score": 4.440398216247559,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9885052",
+    "label": 1,
+    "probability": 0.9999667031557339,
+    "raw_score": 2.7381198406219482,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2619337",
+    "label": 0,
+    "probability": 1.6340547938306883e-10,
+    "raw_score": -3.399082660675049,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7012944",
+    "label": 1,
+    "probability": 0.9999989756956607,
+    "raw_score": 3.38865065574646,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5344298",
+    "label": 1,
+    "probability": 0.9189106521645787,
+    "raw_score": 1.2652612924575806,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7891277",
+    "label": 1,
+    "probability": 0.9997946525296738,
+    "raw_score": 2.398154139518738,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1371640",
+    "label": 1,
+    "probability": 0.9999999288571089,
+    "raw_score": 3.8870067596435547,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3734992",
+    "label": 1,
+    "probability": 0.9990793711092557,
+    "raw_score": 2.1176724433898926,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6003876",
+    "label": 1,
+    "probability": 0.9901432991705057,
+    "raw_score": 1.6729894280433655,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6477770",
+    "label": 1,
+    "probability": 0.9997284644398479,
+    "raw_score": 2.3459365367889404,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4724084",
+    "label": 1,
+    "probability": 0.9999999999999243,
+    "raw_score": 6.45669412612915,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1628605",
+    "label": 1,
+    "probability": 0.999999998867434,
+    "raw_score": 4.660623073577881,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4497280",
+    "label": 0,
+    "probability": 0.0008588526292216109,
+    "raw_score": -0.5073707103729248,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7953141",
+    "label": 1,
+    "probability": 0.9999999999999984,
+    "raw_score": 7.192827224731445,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3904353",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.286417961120605,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8211230",
+    "label": 0,
+    "probability": 1.5676753749090944e-09,
+    "raw_score": -2.9765830039978027,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7227870",
+    "label": 1,
+    "probability": 0.6670552819462281,
+    "raw_score": 0.9414906799793243,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8744969",
+    "label": 0,
+    "probability": 1.0256909821171827e-08,
+    "raw_score": -2.625603199005127,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7356144",
+    "label": 1,
+    "probability": 0.9999999999999971,
+    "raw_score": 7.07200026512146,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_9287320",
+    "label": 1,
+    "probability": 0.9001898603061496,
+    "raw_score": 1.222602128982544,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6090972",
+    "label": 1,
+    "probability": 0.9998113412472627,
+    "raw_score": 2.4139957427978516,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_3761600",
+    "label": 1,
+    "probability": 0.9999910535717667,
+    "raw_score": 2.9836902618408203,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4540126",
+    "label": 1,
+    "probability": 0.9999543576905805,
+    "raw_score": 2.6791887283325195,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7742601",
+    "label": 1,
+    "probability": 0.6913097770780866,
+    "raw_score": 0.9622975587844849,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6782297",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 7.905456066131592,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1977903",
+    "label": 1,
+    "probability": 0.9999999999999998,
+    "raw_score": 7.59787130355835,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7434048",
+    "label": 1,
+    "probability": 0.9999985095761037,
+    "raw_score": 3.3185713291168213,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3590514",
+    "label": 1,
+    "probability": 0.9999988413689609,
+    "raw_score": 3.3656253814697266,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9639990",
+    "label": 1,
+    "probability": 0.9991241900760115,
+    "raw_score": 2.1270063519477844,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9217523",
+    "label": 1,
+    "probability": 0.9999999005870038,
+    "raw_score": 3.8244866132736206,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4260813",
+    "label": 0,
+    "probability": 7.961125166504182e-17,
+    "raw_score": -6.114937782287598,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6278531",
+    "label": 1,
+    "probability": 0.9998762963664563,
+    "raw_score": 2.4928700923919678,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7568404",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.098033905029297,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5281794",
+    "label": 0,
+    "probability": 2.5670138780510836e-15,
+    "raw_score": -5.465927600860596,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8879116",
+    "label": 1,
+    "probability": 0.999999999852806,
+    "raw_score": 5.041898012161255,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3001021",
+    "label": 1,
+    "probability": 0.9999999999999802,
+    "raw_score": 6.707012176513672,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3742912",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 7.999329090118408,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9470258",
+    "label": 0,
+    "probability": 4.490070894750437e-14,
+    "raw_score": -4.931203842163086,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6983950",
+    "label": 1,
+    "probability": 0.9999999997839732,
+    "raw_score": 4.970211029052734,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6976822",
+    "label": 1,
+    "probability": 0.9999999848279153,
+    "raw_score": 4.175740718841553,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7014825",
+    "label": 1,
+    "probability": 0.9999999873911937,
+    "raw_score": 4.210320353507996,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4163803",
+    "label": 0,
+    "probability": 7.24315644542539e-10,
+    "raw_score": -3.120857536792755,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_8452182",
+    "label": 1,
+    "probability": 0.7523237243470497,
+    "raw_score": 1.0192497968673706,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9524617",
+    "label": 1,
+    "probability": 0.9853844671801681,
+    "raw_score": 1.5984809398651123,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8338805",
+    "label": 1,
+    "probability": 0.9999995230503725,
+    "raw_score": 3.5314745903015137,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4660777",
+    "label": 1,
+    "probability": 0.9999999937089976,
+    "raw_score": 4.340235710144043,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5702653",
+    "label": 1,
+    "probability": 0.9999999999999736,
+    "raw_score": 6.653344631195068,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3354423",
+    "label": 1,
+    "probability": 0.9982172942561001,
+    "raw_score": 1.9940319061279297,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3839729",
+    "label": 1,
+    "probability": 0.9999999999990021,
+    "raw_score": 5.975017547607422,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7843624",
+    "label": 1,
+    "probability": 0.9999999982432215,
+    "raw_score": 4.57859468460083,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_3681356",
+    "label": 1,
+    "probability": 0.9999999999998732,
+    "raw_score": 6.360596656799316,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6564522",
+    "label": 1,
+    "probability": 0.9685528972972405,
+    "raw_score": 1.452089548110962,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7294425",
+    "label": 1,
+    "probability": 0.9999994309271601,
+    "raw_score": 3.498476505279541,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4107721",
+    "label": 1,
+    "probability": 0.9999999999868567,
+    "raw_score": 5.493309020996094,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8009204",
+    "label": 1,
+    "probability": 0.9999999999894738,
+    "raw_score": 5.534796714782715,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6594452",
+    "label": 1,
+    "probability": 0.999999990639492,
+    "raw_score": 4.265983581542969,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6134950",
+    "label": 1,
+    "probability": 0.9999997483911778,
+    "raw_score": 3.650974750518799,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9647523",
+    "label": 1,
+    "probability": 0.9999999999998737,
+    "raw_score": 6.3611650466918945,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1867384",
+    "label": 1,
+    "probability": 1.766025744125448e-05,
+    "raw_score": -1.2333236932754517,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1926265",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.522936820983887,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1113447",
+    "label": 1,
+    "probability": 0.05917067844462665,
+    "raw_score": 0.29474350810050964,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_5664137",
+    "label": 1,
+    "probability": 0.04432783610068635,
+    "raw_score": 0.237852543592453,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_9017208",
+    "label": 0,
+    "probability": 1.7032966352781539e-09,
+    "raw_score": -2.9610793590545654,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_2533620",
+    "label": 1,
+    "probability": 0.9303201135508744,
+    "raw_score": 1.2959016636013985,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_7055986",
+    "label": 0,
+    "probability": 3.416076939295069e-10,
+    "raw_score": -3.2612907886505127,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_6606104",
+    "label": 1,
+    "probability": 0.9999998936535102,
+    "raw_score": 3.8118889331817627,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1922228",
+    "label": 1,
+    "probability": 0.9942905499334718,
+    "raw_score": 1.7757984399795532,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6708601",
+    "label": 0,
+    "probability": 5.281820722421434e-12,
+    "raw_score": -4.040360927581787,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5145719",
+    "label": 1,
+    "probability": 0.00912774403079008,
+    "raw_score": -0.06419138610363007,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_7388592",
+    "label": 1,
+    "probability": 0.9999999999999996,
+    "raw_score": 7.4143171310424805,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_4710255",
+    "label": 1,
+    "probability": 0.9999999851692263,
+    "raw_score": 4.179992198944092,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5908243",
+    "label": 1,
+    "probability": 0.999999999064962,
+    "raw_score": 4.696434497833252,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1440587",
+    "label": 1,
+    "probability": 0.9999999999955405,
+    "raw_score": 5.6952714920043945,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6071432",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 9.752869606018066,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_6936624",
+    "label": 1,
+    "probability": 0.9999999951199474,
+    "raw_score": 4.3876901268959045,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4194702",
+    "label": 1,
+    "probability": 0.9932462752055439,
+    "raw_score": 1.7442158460617065,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2602047",
+    "label": 1,
+    "probability": 0.9999999825547948,
+    "raw_score": 4.149654388427734,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2461188",
+    "label": 1,
+    "probability": 0.9999999999946065,
+    "raw_score": 5.659743309020996,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5722427",
+    "label": 1,
+    "probability": 0.431549491350794,
+    "raw_score": 0.7601616382598877,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_1507526",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 7.972232818603516,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_8468045",
+    "label": 1,
+    "probability": 0.9745859741618954,
+    "raw_score": 1.4930509328842163,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1774414",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 10.160784721374512,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_1665632",
+    "label": 0,
+    "probability": 2.3621899763564402e-15,
+    "raw_score": -5.4814653396606445,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_5085671",
+    "label": 1,
+    "probability": 1.0,
+    "raw_score": 8.38555383682251,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4926022",
+    "label": 1,
+    "probability": 0.9999999999142775,
+    "raw_score": 5.142918109893799,
+    "accepted": false
+  },
+  {
+    "id": "LA_E_2894498",
+    "label": 0,
+    "probability": 2.4498803563688485e-13,
+    "raw_score": -4.614157199859619,
+    "accepted": true
+  },
+  {
+    "id": "LA_E_4689563",
+    "label": 1,
+    "probability": 0.9957228308805504,
+    "raw_score": 1.8300368785858154,
+    "accepted": false
+  }
+]

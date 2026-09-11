@@ -1,0 +1,16 @@
+{
+  "file": "aasist.onnx",
+  "input": "wav",
+  "output": "logits",
+  "samples": 64600,
+  "calibration": {
+    "slope": 5.351754488833185,
+    "intercept": -4.343730513162627
+  },
+  "thresholds": {
+    "real": 0.49,
+    "fake": 0.51,
+    "policy": "Archived AASIST calibration; used only as a one-way safety challenge to human-leaning upload results, not as a replacement for the primary detector."
+  },
+  "aggregation": "mean negative bona-fide logit across consecutive 64600-sample blocks; repeat-pad the last block"
+}

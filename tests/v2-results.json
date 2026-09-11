@@ -1,0 +1,94 @@
+{
+  "passed": 13,
+  "failed": 0,
+  "checks": [
+    "Current v2 model loaded",
+    "Python/JS features agree",
+    "Python/JS calibrated probability agrees",
+    "All ten reel files decode and run through actual worker handler",
+    "Known human false alarm is reproduced and honestly labelled",
+    "MP3 fixture header is accepted",
+    "Repeat inference is deterministic",
+    "Worker returns recoverable silence error",
+    "Worker returns recoverable short error",
+    "Worker returns recoverable overlong error",
+    "Worker returns recoverable nonfinite error",
+    "Valid input succeeds after errors",
+    "60-second input completes before UI timeout"
+  ],
+  "reel": [
+    {
+      "id": "clip-01",
+      "truth": "real",
+      "label": "real",
+      "probability": 7.280202793428797e-7,
+      "seconds": 0.3039435
+    },
+    {
+      "id": "clip-02",
+      "truth": "fake",
+      "label": "fake",
+      "probability": 0.9998876351806418,
+      "seconds": 0.15527919999999995
+    },
+    {
+      "id": "clip-03",
+      "truth": "real",
+      "label": "real",
+      "probability": 0.000013847502953697502,
+      "seconds": 0.38364059999999994
+    },
+    {
+      "id": "clip-04",
+      "truth": "fake",
+      "label": "fake",
+      "probability": 0.9985015999716164,
+      "seconds": 0.18879719999999997
+    },
+    {
+      "id": "clip-05",
+      "truth": "real",
+      "label": "real",
+      "probability": 0.0001706447310984522,
+      "seconds": 0.25990030000000003
+    },
+    {
+      "id": "clip-06",
+      "truth": "fake",
+      "label": "fake",
+      "probability": 0.9999764456871559,
+      "seconds": 0.1909226000000001
+    },
+    {
+      "id": "clip-07",
+      "truth": "real",
+      "label": "real",
+      "probability": 0.000001557012099636344,
+      "seconds": 0.1623642
+    },
+    {
+      "id": "clip-08",
+      "truth": "fake",
+      "label": "fake",
+      "probability": 0.9895497889304173,
+      "seconds": 0.12815329999999994
+    },
+    {
+      "id": "team-01",
+      "truth": "fake",
+      "label": "fake",
+      "probability": 0.9999602975920848,
+      "seconds": 0.4188153000000002
+    },
+    {
+      "id": "team-02",
+      "truth": "fake",
+      "label": "fake",
+      "probability": 0.9999179613315262,
+      "seconds": 0.47283059999999977
+    }
+  ],
+  "seconds60": 2.2549050000000004,
+  "browserVisualPlaybackTested": false,
+  "notice": "Worker handler tested under Node; not a browser interaction test."
+}

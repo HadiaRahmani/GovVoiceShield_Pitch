@@ -1,0 +1,9 @@
+numpy==2.5.3
+scipy==1.18.1
+scikit-learn==1.9.0
+soundfile==0.14.0
+onnxruntime==1.29.0
+imageio-ffmpeg==0.6.0
+edge-tts==7.2.8
+
+pyarrow==25.0.1

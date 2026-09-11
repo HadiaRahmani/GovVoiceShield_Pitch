@@ -1,0 +1,5 @@
+{
+  "passed": 10,
+  "failed": 0,
+  "scope": "Mocked microphone lifecycle and real PCM parsing. Physical microphone/browser permission flow not exercised."
+}

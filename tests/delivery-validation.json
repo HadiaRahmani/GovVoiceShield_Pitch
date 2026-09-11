@@ -1,0 +1,12 @@
+{
+  "core_passed": 15,
+  "v2_passed": 13,
+  "failed": 0,
+  "frozen_model_hash_verified": true,
+  "paired_text_content_disjoint": true,
+  "module_syntax_passed": true,
+  "html_local_links_exist": true,
+  "pdf_pages": 5,
+  "pdf_visually_reviewed": true,
+  "browser_visual_playback": false
+}

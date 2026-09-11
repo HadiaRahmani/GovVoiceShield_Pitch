@@ -1,0 +1,8 @@
+{
+  "id": "known-error",
+  "file": "audio/known-error.wav",
+  "label": "real",
+  "source_id": "libri-3570-5694-0001",
+  "source": "LibriSpeech human read speech",
+  "note": "Selected after evaluation to demonstrate a known false alarm. Not a blind or randomly selected sample."
+}

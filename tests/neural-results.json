@@ -1,0 +1,80 @@
+{
+  "passed": 15,
+  "failed": 0,
+  "nativeWasmScoreError": 9.5367431640625e-7,
+  "sixtySecondAudioRuntime": 26.354058600000005,
+  "demo": [
+    {
+      "id": "clip-01",
+      "verifiedLabel": "real",
+      "assessment": "uncertain",
+      "probability": 2.768837333366378e-16,
+      "seconds": 1.5905321999999988
+    },
+    {
+      "id": "clip-02",
+      "verifiedLabel": "fake",
+      "assessment": "fake",
+      "probability": 0.999993839985779,
+      "seconds": 3.3743945999999996
+    },
+    {
+      "id": "clip-03",
+      "verifiedLabel": "real",
+      "assessment": "real",
+      "probability": 1.1819223839052786e-10,
+      "seconds": 3.2316031999999995
+    },
+    {
+      "id": "clip-04",
+      "verifiedLabel": "fake",
+      "assessment": "uncertain",
+      "probability": 0.9999999987935368,
+      "seconds": 3.161297999999999
+    },
+    {
+      "id": "clip-05",
+      "verifiedLabel": "real",
+      "assessment": "real",
+      "probability": 4.342118489489976e-13,
+      "seconds": 1.6196479
+    },
+    {
+      "id": "clip-06",
+      "verifiedLabel": "fake",
+      "assessment": "uncertain",
+      "probability": 0.9999999995989448,
+      "seconds": 1.6239487000000008
+    },
+    {
+      "id": "clip-07",
+      "verifiedLabel": "real",
+      "assessment": "real",
+      "probability": 9.011953677718989e-11,
+      "seconds": 3.0562180000000008
+    },
+    {
+      "id": "clip-08",
+      "verifiedLabel": "fake",
+      "assessment": "uncertain",
+      "probability": 0.4857294606270525,
+      "seconds": 1.6250223000000006
+    },
+    {
+      "id": "team-01",
+      "verifiedLabel": "fake",
+      "assessment": "real",
+      "probability": 0.000012808141092716793,
+      "seconds": 6.346960900000002
+    },
+    {
+      "id": "team-02",
+      "verifiedLabel": "fake",
+      "assessment": "real",
+      "probability": 0.000012894407611428004,
+      "seconds": 6.472238199999996
+    }
+  ],
+  "browserVisualAndPlaybackQA": "Not performed; tests run actual shared inference code with ONNX Runtime WASM in Node. Browser event and audio playback behavior require separate interactive verification.",
+  "webmcpValidation": "No supported WebMCP validation context was available; optional tools are unverified."
+}

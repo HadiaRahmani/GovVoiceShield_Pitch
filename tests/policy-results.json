@@ -1,0 +1,17 @@
+{
+  "passed": 11,
+  "failed": 0,
+  "checks": [
+    "recorded human-leaning output abstains and preserves its base result",
+    "recorded synthetic output remains synthetic",
+    "uploaded human output remains human",
+    "existing uncertainty remains uncertainty",
+    "AASIST upload configuration is valid",
+    "AASIST can challenge a primary human result",
+    "AASIST cannot clear a primary synthetic warning",
+    "AASIST preserves the primary calibrated estimate",
+    "existing primary uncertainty remains uncertainty after AASIST",
+    "worker routes the neural second opinion only for uploads",
+    "application passes its source mode and loads neural configuration"
+  ]
+}

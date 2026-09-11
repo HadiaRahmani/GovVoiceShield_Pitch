@@ -1,0 +1,92 @@
+[
+  {
+    "id": "clip-01",
+    "file": "audio/clip-01.wav",
+    "label": "real",
+    "source_id": "libri-1089-134691-0001",
+    "source": "openslr/librispeech_asr",
+    "kind": "locked-test",
+    "note": "Selected by ID, not model success. Read speech; not an impersonation of an official."
+  },
+  {
+    "id": "clip-02",
+    "file": "audio/clip-02.wav",
+    "label": "fake",
+    "source_id": "edge-1089-134691-0001",
+    "source": "Project-generated Edge stock neural speech",
+    "kind": "locked-test",
+    "note": "Selected by ID, not model success. Read speech; not an impersonation of an official."
+  },
+  {
+    "id": "clip-03",
+    "file": "audio/clip-03.wav",
+    "label": "real",
+    "source_id": "libri-1188-133604-0000",
+    "source": "openslr/librispeech_asr",
+    "kind": "locked-test",
+    "note": "Selected by ID, not model success. Read speech; not an impersonation of an official."
+  },
+  {
+    "id": "clip-04",
+    "file": "audio/clip-04.wav",
+    "label": "fake",
+    "source_id": "edge-1188-133604-0000",
+    "source": "Project-generated Edge stock neural speech",
+    "kind": "locked-test",
+    "note": "Selected by ID, not model success. Read speech; not an impersonation of an official."
+  },
+  {
+    "id": "clip-05",
+    "file": "audio/clip-05.wav",
+    "label": "real",
+    "source_id": "libri-121-121726-0000",
+    "source": "openslr/librispeech_asr",
+    "kind": "locked-test",
+    "note": "Selected by ID, not model success. Read speech; not an impersonation of an official."
+  },
+  {
+    "id": "clip-06",
+    "file": "audio/clip-06.wav",
+    "label": "fake",
+    "source_id": "edge-121-121726-0000",
+    "source": "Project-generated Edge stock neural speech",
+    "kind": "locked-test",
+    "note": "Selected by ID, not model success. Read speech; not an impersonation of an official."
+  },
+  {
+    "id": "clip-07",
+    "file": "audio/clip-07.wav",
+    "label": "real",
+    "source_id": "libri-1221-135767-0005",
+    "source": "openslr/librispeech_asr",
+    "kind": "locked-test",
+    "note": "Selected by ID, not model success. Read speech; not an impersonation of an official."
+  },
+  {
+    "id": "clip-08",
+    "file": "audio/clip-08.wav",
+    "label": "fake",
+    "source_id": "edge-1221-135767-0005",
+    "source": "Project-generated Edge stock neural speech",
+    "kind": "locked-test",
+    "note": "Selected by ID, not model success. Read speech; not an impersonation of an official."
+  },
+  {
+    "id": "team-01",
+    "file": "audio/team-01.wav",
+    "label": "fake",
+    "source": "Project-generated Microsoft Edge en-US-GuyNeural",
+    "kind": "team-generated",
+    "transcript": "This is a fictional demonstration announcement. The community service centre will open at nine tomorrow morning. Please confirm opening times using the official directory before travelling.",
+    "note": "Fictional announcement. Previously inspected regression probe, excluded from final-test metrics."
+  },
+  {
+    "id": "team-02",
+    "file": "audio/team-02.wav",
+    "label": "fake",
+    "source": "Project-generated Microsoft Edge en-US-JennyNeural",
+    "kind": "team-generated",
+    "transcript": "This is a fictional demonstration announcement. Scheduled maintenance will affect the public information portal tonight. For urgent assistance, use the contact details already published on the official website.",
+    "note": "Fictional announcement. Previously inspected regression probe, excluded from final-test metrics."
+  }
+]

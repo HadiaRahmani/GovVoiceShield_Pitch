@@ -1,0 +1,8 @@
+import * as ort from './vendor/ort.wasm.min.mjs';
+import {analyze} from './dsp.mjs';
+ort.env.wasm.numThreads=1;
+ort.env.wasm.wasmPaths=new URL('./vendor/',import.meta.url).href;
+export async function createDetector(source=new URL('./aasist.onnx',import.meta.url).href){return ort.InferenceSession.create(source,{executionProviders:['wasm']});}
+export async function neuralScore(wave,session,n=64600){let sum=0,blocks=0;for(let start=0;start<wave.length;start+=n){const tail=wave.subarray(start,Math.min(start+n,wave.length)),input=new Float32Array(n);for(let i=0;i<n;i++)input[i]=tail[i%tail.length];const out=await session.run({wav:new ort.Tensor('float32',input,[1,n])});sum-=out.logits.data[1];blocks++;}return {score:sum/blocks,blocks};}
+export function applyNeuralSafetyPolicy(result,p,t){const featureProbability=result.probability,baseLabel=result.label;let label=baseLabel;if(baseLabel==='real'&&p>t.real){label='uncertain';result.policyReason='neural-safety-challenge';result.warnings.push('AASIST did not support the primary human result. Treat this recording as suspicious and review it.');}result.featureProbability=featureProbability;result.neuralProbability=p;result.neuralLabel=p<=t.real?'real':p>=t.fake?'fake':'uncertain';result.probability=featureProbability;result.label=label;return result;}
+export async function screen(wave,m,session){const result=analyze(wave,m);if(!m.neural)return result;const raw=await neuralScore(wave,session,m.neural.samples),c=m.neural.calibration,p=1/(1+Math.exp(-Math.max(-50,Math.min(50,c.slope*raw.score+c.intercept)))),t=m.neural.thresholds;applyNeuralSafetyPolicy(result,p,t);result.neuralRawScore=raw.score;result.neuralBlocks=raw.blocks;return result;}

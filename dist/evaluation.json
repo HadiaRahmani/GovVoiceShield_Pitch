@@ -1,0 +1,482 @@
+{
+  "model": "90 acoustic features, RBF SVM trained on contemporary speech, separately sigmoid-calibrated",
+  "protocol": "Paired English read speech; held-out human speakers, text IDs and Edge stock voices. Edge engine represented in training. Public collection is a separate diagnostic.",
+  "conditions": {
+    "clean": {
+      "n": 80,
+      "real": 40,
+      "fake": 40,
+      "accuracy": 0.975,
+      "accuracy_ci95": [
+        0.9133539994467789,
+        0.9931172511018748
+      ],
+      "precision": 0.9523809523809523,
+      "recall": 1.0,
+      "f1": 0.975609756097561,
+      "roc_auc": 0.999375,
+      "brier": 0.017134655965717626,
+      "eer": 0.025000000000000012,
+      "confusion_matrix": [
+        [
+          38,
+          2
+        ],
+        [
+          0,
+          40
+        ]
+      ]
+    },
+    "noise_20db": {
+      "n": 80,
+      "real": 40,
+      "fake": 40,
+      "accuracy": 0.9375,
+      "accuracy_ci95": [
+        0.8618967084664824,
+        0.9730110223020145
+      ],
+      "precision": 0.9069767441860465,
+      "recall": 0.975,
+      "f1": 0.9397590361445783,
+      "roc_auc": 0.994375,
+      "brier": 0.04100071271962384,
+      "eer": 0.025000000000000012,
+      "confusion_matrix": [
+        [
+          36,
+          4
+        ],
+        [
+          1,
+          39
+        ]
+      ]
+    },
+    "mp3_32kbps": {
+      "n": 80,
+      "real": 40,
+      "fake": 40,
+      "accuracy": 0.925,
+      "accuracy_ci95": [
+        0.8458779990261992,
+        0.9651752251489122
+      ],
+      "precision": 0.8863636363636364,
+      "recall": 0.975,
+      "f1": 0.9285714285714286,
+      "roc_auc": 0.9793749999999999,
+      "brier": 0.06808047437782247,
+      "eer": 0.050000000000000024,
+      "confusion_matrix": [
+        [
+          35,
+          5
+        ],
+        [
+          1,
+          39
+        ]
+      ]
+    }
+  },
+  "selective": {
+    "coverage": 0.95,
+    "accepted": 76,
+    "uncertain": 4,
+    "accuracy": 0.9868421052631579
+  },
+  "splits": {
+    "train": {
+      "n": 1093,
+      "speakers": [
+        "edge-voice-en-GB-RyanNeural",
+        "edge-voice-en-GB-SoniaNeural",
+        "edge-voice-en-US-AriaNeural",
+        "edge-voice-en-US-ChristopherNeural",
+        "el_0001",
+        "el_0002",
+        "el_0003",
+        "el_0007",
+        "el_0008",
+        "el_0009",
+        "el_0010",
+        "el_0011",
+        "el_0012",
+        "el_0013",
+        "el_0017",
+        "el_0018",
+        "el_0019",
+        "el_0020",
+        "el_0021",
+        "el_0022",
+        "el_0023",
+        "el_0027",
+        "el_0028",
+        "hg_0001",
+        "hg_0002",
+        "hg_0003",
+        "hg_0007",
+        "hg_0008",
+        "hg_0009",
+        "hg_0010",
+        "hg_0011",
+        "hg_0012",
+        "hg_0013",
+        "libri-speaker-1272",
+        "libri-speaker-1673",
+        "libri-speaker-174",
+        "libri-speaker-2412",
+        "libri-speaker-251",
+        "libri-speaker-2803",
+        "libri-speaker-3000",
+        "libri-speaker-3081",
+        "libri-speaker-3536",
+        "libri-speaker-3576",
+        "libri-speaker-3752",
+        "libri-speaker-422",
+        "libri-speaker-5536",
+        "libri-speaker-5694",
+        "libri-speaker-6241",
+        "libri-speaker-6319",
+        "libri-speaker-6345",
+        "libri-speaker-777",
+        "libri-speaker-84",
+        "libri-speaker-8842",
+        "lv_0001",
+        "lv_0002",
+        "lv_0003",
+        "po_0001",
+        "po_0002",
+        "po_0003",
+        "po_0007",
+        "po_0008",
+        "po_0009",
+        "po_0010",
+        "po_0012",
+        "po_0017",
+        "po_0018",
+        "po_0019",
+        "po_0020",
+        "po_0021",
+        "po_0022",
+        "po_0023",
+        "po_0027",
+        "po_0028",
+        "po_0029",
+        "po_0030",
+        "po_0031",
+        "po_0032",
+        "po_0033",
+        "sp_0001",
+        "sp_0002",
+        "sp_0003",
+        "sp_0007",
+        "sp_0008",
+        "sp_0009",
+        "sp_0010",
+        "yt_0000",
+        "yt_0002",
+        "yt_0007",
+        "yt_0008",
+        "yt_0010",
+        "yt_0011",
+        "yt_0013"
+      ]
+    },
+    "tune": {
+      "n": 247,
+      "speakers": [
+        "edge-voice-en-GB-LibbyNeural",
+        "edge-voice-en-US-EricNeural",
+        "el_0004",
+        "el_0014",
+        "el_0024",
+        "hg_0004",
+        "libri-speaker-1462",
+        "libri-speaker-1988",
+        "libri-speaker-2035",
+        "libri-speaker-2078",
+        "libri-speaker-2428",
+        "libri-speaker-2902",
+        "libri-speaker-3170",
+        "libri-speaker-5895",
+        "libri-speaker-6295",
+        "libri-speaker-6313",
+        "lv_0004",
+        "po_0004",
+        "po_0024",
+        "po_0034",
+        "sp_0004",
+        "yt_0004",
+        "yt_0006"
+      ]
+    },
+    "calibration": {
+      "n": 281,
+      "speakers": [
+        "edge-voice-en-US-MichelleNeural",
+        "edge-voice-en-US-SteffanNeural",
+        "el_0005",
+        "el_0015",
+        "el_0025",
+        "hg_0005",
+        "libri-speaker-1919",
+        "libri-speaker-1993",
+        "libri-speaker-2086",
+        "libri-speaker-2277",
+        "libri-speaker-3853",
+        "libri-speaker-5338",
+        "libri-speaker-652",
+        "libri-speaker-7850",
+        "libri-speaker-7976",
+        "libri-speaker-8297",
+        "lv_0005",
+        "po_0005",
+        "po_0025",
+        "sp_0005",
+        "yt_0001",
+        "yt_0012"
+      ]
+    },
+    "test": {
+      "n": 485,
+      "speakers": [
+        "edge-voice-en-US-GuyNeural",
+        "edge-voice-en-US-JennyNeural",
+        "el_0006",
+        "el_0016",
+        "el_0026",
+        "hg_0006",
+        "hu_0001",
+        "hu_0002",
+        "hu_0003",
+        "hu_0004",
+        "hu_0005",
+        "hu_0006",
+        "hu_0007",
+        "hu_0008",
+        "hu_0009",
+        "libri-speaker-1089",
+        "libri-speaker-1188",
+        "libri-speaker-121",
+        "libri-speaker-1221",
+        "libri-speaker-1284",
+        "libri-speaker-1320",
+        "libri-speaker-1580",
+        "libri-speaker-1995",
+        "libri-speaker-2094",
+        "libri-speaker-2300",
+        "libri-speaker-237",
+        "libri-speaker-260",
+        "libri-speaker-2830",
+        "libri-speaker-2961",
+        "libri-speaker-3570",
+        "libri-speaker-3575",
+        "libri-speaker-3729",
+        "libri-speaker-4077",
+        "libri-speaker-4446",
+        "libri-speaker-4507",
+        "libri-speaker-4970",
+        "libri-speaker-4992",
+        "libri-speaker-5105",
+        "libri-speaker-5142",
+        "libri-speaker-5639",
+        "libri-speaker-5683",
+        "libri-speaker-61",
+        "libri-speaker-672",
+        "libri-speaker-6829",
+        "libri-speaker-6930",
+        "libri-speaker-7021",
+        "libri-speaker-7127",
+        "libri-speaker-7176",
+        "libri-speaker-7729",
+        "libri-speaker-8224",
+        "libri-speaker-8230",
+        "libri-speaker-8455",
+        "libri-speaker-8463",
+        "libri-speaker-8555",
+        "libri-speaker-908",
+        "lv_0006",
+        "po_0006",
+        "po_0016",
+        "po_0026",
+        "sp_0006",
+        "yt_0003",
+        "yt_0005",
+        "yt_0009"
+      ]
+    }
+  },
+  "thresholds": {
+    "real": 0.2,
+    "fake": 0.8,
+    "policy": "Separate calibration, weighted precision >=90%, minimum 10 predictions, conservative 0.2/0.8 caps; not an operational guarantee."
+  },
+  "public_diagnostic": {
+    "clean": {
+      "n": 405,
+      "real": 212,
+      "fake": 193,
+      "accuracy": 0.9481481481481482,
+      "accuracy_ci95": [
+        0.9220355061730313,
+        0.9658389175646706
+      ],
+      "precision": 0.9479166666666666,
+      "recall": 0.9430051813471503,
+      "f1": 0.9454545454545454,
+      "roc_auc": 0.9926679049760485,
+      "brier": 0.03440400373835549,
+      "eer": 0.054440805552839956,
+      "confusion_matrix": [
+        [
+          202,
+          10
+        ],
+        [
+          11,
+          182
+        ]
+      ]
+    },
+    "noise_20db": {
+      "n": 405,
+      "real": 212,
+      "fake": 193,
+      "accuracy": 0.9209876543209876,
+      "accuracy_ci95": [
+        0.890585543798063,
+        0.9434783088040206
+      ],
+      "precision": 0.9878787878787879,
+      "recall": 0.844559585492228,
+      "f1": 0.9106145251396648,
+      "roc_auc": 0.9877309609932545,
+      "brier": 0.06534235030006584,
+      "eer": 0.06905611496724998,
+      "confusion_matrix": [
+        [
+          210,
+          2
+        ],
+        [
+          30,
+          163
+        ]
+      ]
+    },
+    "mp3_32kbps": {
+      "n": 405,
+      "real": 212,
+      "fake": 193,
+      "accuracy": 0.8641975308641975,
+      "accuracy_ci95": [
+        0.8273918526003424,
+        0.8941589876272665
+      ],
+      "precision": 0.7851239669421488,
+      "recall": 0.9844559585492227,
+      "f1": 0.8735632183908046,
+      "roc_auc": 0.9753641607195229,
+      "brier": 0.10248664494217787,
+      "eer": 0.07400527910841725,
+      "confusion_matrix": [
+        [
+          160,
+          52
+        ],
+        [
+          3,
+          190
+        ]
+      ]
+    }
+  },
+  "public_platforms": {
+    "el": {
+      "n": 5,
+      "binary_accuracy": 1.0,
+      "decision_coverage": 0.8
+    },
+    "hg": {
+      "n": 6,
+      "binary_accuracy": 0.8333333333333334,
+      "decision_coverage": 0.6666666666666666
+    },
+    "hu": {
+      "n": 116,
+      "binary_accuracy": 0.9137931034482759,
+      "decision_coverage": 0.6293103448275862
+    },
+    "human": {
+      "n": 212,
+      "binary_accuracy": 0.9528301886792453,
+      "decision_coverage": 0.7405660377358491
+    },
+    "lv": {
+      "n": 25,
+      "binary_accuracy": 1.0,
+      "decision_coverage": 0.68
+    },
+    "po": {
+      "n": 15,
+      "binary_accuracy": 1.0,
+      "decision_coverage": 0.6666666666666666
+    },
+    "sp": {
+      "n": 26,
+      "binary_accuracy": 1.0,
+      "decision_coverage": 0.6923076923076923
+    }
+  },
+  "prior_svm_on_fresh_primary": {
+    "n": 80,
+    "real": 40,
+    "fake": 40,
+    "accuracy": 0.475,
+    "accuracy_ci95": [
+      0.3692454986165162,
+      0.5830454881967124
+    ],
+    "precision": 0.42857142857142855,
+    "recall": 0.15,
+    "f1": 0.2222222222222222,
+    "roc_auc": 0.665,
+    "brier": 0.43671149978052703,
+    "eer": 0.30000000000000004,
+    "confusion_matrix": [
+      [
+        32,
+        8
+      ],
+      [
+        34,
+        6
+      ]
+    ]
+  },
+  "regression_probes": [
+    {
+      "id": "team-01",
+      "probability": 0.9999602975920848,
+      "accepted": true,
+      "label": "fake"
+    },
+    {
+      "id": "team-02",
+      "probability": 0.9999179613315262,
+      "accepted": true,
+      "label": "fake"
+    }
+  ],
+  "limitations": [
+    "Small English read-speech test; not Arabic, telephone, government-domain, video or identity verification.",
+    "Clip-level confidence interval is descriptive; paired scripts and shared synthesis voices are dependent.",
+    "Balanced-study calibrated estimates are not operational probabilities.",
+    "Public diagnostic has only a few source groups, unverified speaker identities and potentially shared synthetic scripts.",
+    "Window scores are uncalibrated review hints, not validated splice localization.",
+    "AASIST v1 and the two original announcements were inspected previously; they are not fresh validation."
+  ]
+}

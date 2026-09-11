@@ -1,0 +1,100 @@
+{
+  "candidates": [
+    {
+      "C": 1.0,
+      "gamma": 0.003,
+      "domain_auc": {
+        "paired": 1.0,
+        "public": 0.9936090225563909
+      },
+      "mean_auc": 0.9968045112781955
+    },
+    {
+      "C": 1.0,
+      "gamma": 0.01,
+      "domain_auc": {
+        "paired": 1.0,
+        "public": 0.9971804511278196
+      },
+      "mean_auc": 0.9985902255639099
+    },
+    {
+      "C": 1.0,
+      "gamma": 0.03,
+      "domain_auc": {
+        "paired": 1.0,
+        "public": 0.993327067669173
+      },
+      "mean_auc": 0.9966635338345865
+    },
+    {
+      "C": 10.0,
+      "gamma": 0.003,
+      "domain_auc": {
+        "paired": 0.99,
+        "public": 0.9826127819548873
+      },
+      "mean_auc": 0.9863063909774437
+    },
+    {
+      "C": 10.0,
+      "gamma": 0.01,
+      "domain_auc": {
+        "paired": 1.0,
+        "public": 0.9956766917293234
+      },
+      "mean_auc": 0.9978383458646617
+    },
+    {
+      "C": 10.0,
+      "gamma": 0.03,
+      "domain_auc": {
+        "paired": 1.0,
+        "public": 0.993609022556391
+      },
+      "mean_auc": 0.9968045112781956
+    },
+    {
+      "C": 100.0,
+      "gamma": 0.003,
+      "domain_auc": {
+        "paired": 0.975,
+        "public": 0.97453007518797
+      },
+      "mean_auc": 0.9747650375939849
+    },
+    {
+      "C": 100.0,
+      "gamma": 0.01,
+      "domain_auc": {
+        "paired": 1.0,
+        "public": 0.9953007518796992
+      },
+      "mean_auc": 0.9976503759398496
+    },
+    {
+      "C": 100.0,
+      "gamma": 0.03,
+      "domain_auc": {
+        "paired": 1.0,
+        "public": 0.993609022556391
+      },
+      "mean_auc": 0.9968045112781956
+    }
+  ],
+  "selected": {
+    "C": 1.0,
+    "gamma": 0.01
+  },
+  "splits": {
+    "train": 1093,
+    "tune": 247,
+    "calibration": 281
+  },
+  "training_augmented": 2186,
+  "thresholds": {
+    "real": 0.2,
+    "fake": 0.8,
+    "policy": "Separate calibration, weighted precision >=90%, minimum 10 predictions, conservative 0.2/0.8 caps; not an operational guarantee."
+  }
+}
